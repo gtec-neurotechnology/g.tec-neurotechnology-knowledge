@@ -14,6 +14,6 @@
 ## Quick start with g.Pype (no hardware needed)
 ```shell
 pip install "gpype[all]"
-git clone https://github.com/gtec-medical-engineering/gpype.git
+git clone https://github.com/gtec-neurotechnology/gpype.git
 ```
 Then run `examples/s1e2_hello_world.py`. The built-in signal generator lets a pipeline run without an amplifier. Full manual for LLMs: [gpype.gtec.at/llms-full.txt](https://gpype.gtec.at/llms-full.txt).

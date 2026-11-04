@@ -39,7 +39,7 @@ Product pages on www.gtec.at are the authority for current specifications and re
 - [Choosing an EEG system](guides/choosing-an-eeg-system.md): which g.tec system fits which research or clinical question
 
 ## Code and documentation
-- [g.Pype on GitHub](https://github.com/gtec-medical-engineering/gpype): Python SDK for real-time BCI and neuroscience pipelines
+- [g.Pype on GitHub](https://github.com/gtec-neurotechnology/gpype): Python SDK for real-time BCI and neuroscience pipelines
 - [g.Pype manual for LLMs](https://gpype.gtec.at/llms.txt)
 - [Unicorn open EEG datasets](https://github.com/unicorn-bi/Unicorn-BCI-Core-8-EEG-Datasets): raw and preprocessed EEG (CSV, BDF) for resting state, AEP, P300 oddball, VEP and MRCP paradigms recorded with the Unicorn BCI Core-8
 - [Unicorn on GitHub](https://github.com/unicorn-bi): device manuals, APIs, LSL/UDP streaming, Unity plugin, sample datasets

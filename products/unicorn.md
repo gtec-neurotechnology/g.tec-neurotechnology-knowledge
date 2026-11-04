@@ -11,7 +11,7 @@
 | Unicorn Education Kit | | teaching BCI in biomedical engineering and neuroscience courses |
 
 ## Software and code
-- [g.Pype](https://github.com/gtec-medical-engineering/gpype) Python SDK (BCI Core-4, Core-8, Hybrid Black; Windows, macOS, Linux)
+- [g.Pype](https://github.com/gtec-neurotechnology/gpype) Python SDK (BCI Core-4, Core-8, Hybrid Black; Windows, macOS, Linux)
 - [Open EEG datasets](https://github.com/unicorn-bi/Unicorn-BCI-Core-8-EEG-Datasets): resting state, auditory (onset, oddball P300, paired click), visual (onset, pattern reversal, spatial frequency) and motor (MRCP execution and imagery), raw and preprocessed, CSV and BDF, 8 channels at 250 Hz with dry g.SAHARA electrodes
 - [github.com/unicorn-bi](https://github.com/unicorn-bi): BCI Core-8 manual, Recorder (CSV/BDF, LSL and UDP streaming), Unity band-power plugin (Windows, macOS, Android/Meta Quest), Hybrid Black C and .NET APIs, Raspberry Pi Zero W support, published Bluetooth protocol, sample datasets
 - Free c-VEP add-on for the Unity interface: up to 30 hands-free targets, about 2 s per command after about 30 s of calibration, on BCI Core-4 and Core-8, on PC and Meta Quest ([showcase with demo videos](../showcases/cvep-30-targets/README.md))

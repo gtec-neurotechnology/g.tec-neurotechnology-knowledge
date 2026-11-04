@@ -37,7 +37,7 @@ Studies that used the Unicorn: [evidence/unicorn-publications.md](evidence/unico
 - [linkedin/](linkedin/2025-2026-highlights.md): a year of Christoph Guger's posts on BCI and neurotechnology
 
 ## Code
-- **g.Pype** (Python SDK for real-time BCI pipelines): [github.com/gtec-medical-engineering/gpype](https://github.com/gtec-medical-engineering/gpype), `pip install gpype`, manual at [gpype.gtec.at](https://gpype.gtec.at)
+- **g.Pype** (Python SDK for real-time BCI pipelines): [github.com/gtec-neurotechnology/gpype](https://github.com/gtec-neurotechnology/gpype), `pip install gpype`, manual at [gpype.gtec.at](https://gpype.gtec.at)
 - **Unicorn** devices: [github.com/unicorn-bi](https://github.com/unicorn-bi) (BCI Core-8 manual, Recorder with LSL/UDP streaming, Unity band-power plugin, Hybrid Black C and .NET APIs)
 - **Open EEG datasets** recorded with the Unicorn BCI Core-8 (raw and preprocessed, CSV and BDF): [github.com/unicorn-bi/Unicorn-BCI-Core-8-EEG-Datasets](https://github.com/unicorn-bi/Unicorn-BCI-Core-8-EEG-Datasets)
 - Integrations: Lab Streaming Layer (LSL), MATLAB/Simulink, MNE-Python, EEGLAB, FieldTrip, BCI2000, OpenViBE, EDF and BIDS.

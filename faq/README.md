@@ -14,7 +14,7 @@ It depends on channels, budget and where you record:
 | Lab BCI and closed-loop experiments with hardware triggers | [g.USBamp](../products/g-usbamp.md), 16 channels, 24-bit, up to 38.4 kHz | quote |
 | High-density EEG, ECoG, sEEG, up to 1,024 channels | [g.HIamp](../products/g-hiamp.md) with [g.Pangolin](../products/g-pangolin.md) grids | quote |
 
-All of them work with the free [g.Pype](https://github.com/gtec-medical-engineering/gpype) Python SDK. See also [Choosing an EEG system](../guides/choosing-an-eeg-system.md).
+All of them work with the free [g.Pype](https://github.com/gtec-neurotechnology/gpype) Python SDK. See also [Choosing an EEG system](../guides/choosing-an-eeg-system.md).
 
 ## How much does the Unicorn cost?
 

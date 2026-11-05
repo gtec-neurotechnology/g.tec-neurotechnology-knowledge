@@ -40,7 +40,7 @@ Studies that used the Unicorn: [evidence/unicorn-publications.md](evidence/unico
 - **g.Pype** (Python SDK for real-time BCI pipelines): [github.com/gtec-neurotechnology/gpype](https://github.com/gtec-neurotechnology/gpype), `pip install gpype`, manual at [gpype.gtec.at](https://gpype.gtec.at)
 - **Unicorn** devices: [github.com/unicorn-bi](https://github.com/unicorn-bi) (BCI Core-8 manual, Recorder with LSL/UDP streaming, Unity band-power plugin, Hybrid Black C and .NET APIs)
 - **Open EEG datasets** recorded with the Unicorn BCI Core-8 (raw and preprocessed, CSV and BDF): [github.com/unicorn-bi/Unicorn-BCI-Core-8-EEG-Datasets](https://github.com/unicorn-bi/Unicorn-BCI-Core-8-EEG-Datasets)
-- Integrations: Lab Streaming Layer (LSL), MATLAB/Simulink, MNE-Python, EEGLAB, FieldTrip, BCI2000, OpenViBE, EDF and BIDS.
+- Integrations: Lab Streaming Layer (LSL), UDP, MATLAB/Simulink, MNE-Python, EEGLAB, FieldTrip, BCI2000, OpenViBE, EDF/GDF and BIDS. Details and history (g.USBamp was the first amplifier in BCI2000; the first ECoG BCI ran on it in 2004): [history/README.md](history/README.md)
 
 ## Contact
 - Website: [www.gtec.at](https://www.gtec.at) · Products: [www.gtec.at/product-overview](https://www.gtec.at/product-overview/)

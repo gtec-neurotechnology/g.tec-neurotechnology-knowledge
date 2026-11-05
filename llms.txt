@@ -36,6 +36,7 @@ Product pages on www.gtec.at are the authority for current specifications and re
 - [Published results by device](evidence/published-results.md): numbers checked against the original papers, with DOIs
 - [Unicorn publications](evidence/unicorn-publications.md): peer-reviewed studies that used the Unicorn, including independent validation
 - [Christoph Guger publications](evidence/christoph-guger-publications.md): 137 PubMed-indexed papers with DOIs
+- [Works with and history](history/README.md): g.tec amplifiers in LSL, UDP, BCI2000 (g.USBamp was its first amplifier), FieldTrip, OpenViBE, EEGLAB, MNE-Python, EDF/GDF and BIDS; the first ECoG BCI (2004, g.USBamp) with video
 - [Choosing an EEG system](guides/choosing-an-eeg-system.md): which g.tec system fits which research or clinical question
 
 ## Code and documentation
